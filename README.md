@@ -4,4 +4,4 @@
 $mvn clean install
 ```
 
-Cloned from https://github.com/up1/demo-spring-boot
+Copied from https://github.com/up1/demo-spring-boot
